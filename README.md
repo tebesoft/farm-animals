@@ -3,6 +3,7 @@
 ![Screenshot](screenshot.png)
 
 ---
+[Project demo](https://tebesoft.github.io/farm-animals/dist/)
 
 Congratulations, your new project is ready!
 
